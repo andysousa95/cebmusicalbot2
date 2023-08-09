@@ -41,7 +41,8 @@ Up your bot to server and test the commands in the channels. Also, you can chang
 
 - Install [discord.js(https://discord.js.org/#/)]
 
-- Be aware to use all of these libraries: 
+- Be aware to use all of these libraries:
+-  
     DisTube: https://www.npmjs.com/package/distube;
 
     @distube/soundclound: https://www.npmjs.com/package/@distube/soundcloud;
