@@ -6,7 +6,8 @@
 > It's a musical bot code, if you want to use, just copy the code and use in your Discord bot. 
 
 
-[![GitHub issues](https://github.com/andysousa95/aicmusicalbot/issues)
+[![GitHub issues]
+(https://github.com/andysousa95/aicmusicalbot/issues)
 [![GitHub license] license still in progress.
 
 </div>
@@ -42,13 +43,21 @@ Up your bot to server and test the commands in the channels. Also, you can chang
 
 - Be aware to use all of these libraries: 
     DisTube: https://www.npmjs.com/package/distube;
+
     @distube/soundclound: https://www.npmjs.com/package/@distube/soundcloud;
+
     @distube/spotify: https://www.npmjs.com/package/@distube/spotify;
+
     @discordjs/opus: https://www.npmjs.com/package/@discordjs/opus;
+
     @distube/yt-dlp: https://www.npmjs.com/package/@distube/yt-dlp;
+
     ffmpeg-static: https://www.npmjs.com/package/ffmpeg-static;
+
     discord.js: https://www.npmjs.com/package/discord.js;
+
     express: https://www.npmjs.com/package/express;
+
     libsodium-wrappers: https://www.npmjs.com/package/libsodium-wrappers;
 
 
